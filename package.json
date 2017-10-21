@@ -1,0 +1,18 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Reenath",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "underscore": "^1.8.3"
+  }
+}
